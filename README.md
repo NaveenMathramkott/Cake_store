@@ -1,36 +1,15 @@
 # Ecommerce frontend for React Native mobile app (Android & IOS)
 
-## Step 1: Start the Metro Server
+### In production
 
-<!-- use --->
+## Step 1: Start your Application
 
 npx react-native start
 
-<!-- -------- -->
-
-<!-- ---------if cache found------ -->
+## If cache found
 
 npm start --reset-cache
 
-<!-- -------------- -->
-
-<!-- ----- if there is ESlint issue----- -->
+## If there is ESlint issue
 
 npm run lint -- --fix
-
-<!-- ----------------------- -->
-
-npm start
-yarn start
-
-## Step 2: Start your Application
-
-### For Android
-
-npm run android
-yarn android
-
-### For iOS
-
-npm run ios
-yarn ios
