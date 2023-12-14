@@ -8,6 +8,6 @@ npx react-native start
 
 npm start --reset-cache
 
-## If there is ESlint issue
+## If ESlint issue
 
 npm run lint -- --fix
