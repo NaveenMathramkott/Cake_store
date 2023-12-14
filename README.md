@@ -1,4 +1,4 @@
-# Ecommerce frontend for React Native mobile app (Android & IOS) In production
+# React Native mobile app for Ecommerce (Android & IOS) In production
 
 ## Step 1: Start your Application
 
